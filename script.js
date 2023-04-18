@@ -45,7 +45,6 @@ function fetchBookmarks() {
         ];
         localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
     }
-    console.log(bookmarks);
 }
 
 function storeBookmark (e) {
