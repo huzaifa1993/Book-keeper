@@ -21,13 +21,13 @@ Styling:<br>
  -SVG image as a background for the website.<br>
 
 Functions:<br>
-*fetchBookmarks():
+*fetchBookmarks():<br>
  -this function checks if there are any bookmarks in the browser's local storage. If there are no bookmarks in the local storage, it will add a default bookmark.<br>
  -This function does not take any parameter and returns an array of object of two properties:<br>
  .name: the title of the bookmark.<br>
  .url: the URL of the bookmark.<br>
 
-*showModal():
+*showModal():<br>
  function is used to display a modal on the UI. It adds the 'show-modal' class to the modal element to make it visible and sets the focus on the website name input element.<br>
  this function called when the 'Add Bookmark' button is clicked. <br>
  -this function does not take any parameter.<br>
