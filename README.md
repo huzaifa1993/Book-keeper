@@ -31,5 +31,5 @@ Functions:<br>
  function is used to display a modal on the UI. It adds the 'show-modal' class to the modal element to make it visible and sets the focus on the website name input element.<br>
  this function called when the 'Add Bookmark' button is clicked. <br>
  -this function does not take any parameter.<br>
- -this function returns void. <br>
+ -this function does not return any value. <br>
  -this function is used to modify the Document Object Model (DOM).
