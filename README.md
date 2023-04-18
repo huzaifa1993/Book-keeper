@@ -4,7 +4,7 @@ Book-Keeper Project: <br>
  Users can add and delete their bookmarks easily.
 
 Getting Started:<br>
- To use Bookmark Project, you will need to have a web browser installed on your computer or mobile device.<br> 
+ To use Book-keeper Project, you will need to have a web browser installed on your computer or mobile device.<br> 
  The application is accessible through any web browser.
 
  Features:<br>
