@@ -3,24 +3,24 @@ Book-Keeper Project: <br>
  is a simple  web application that allows users to save   their favourite websites in local storage.
  Users can add and delete their bookmarks easily.
 
-Getting Started:
+Getting Started:<br>
  To use Bookmark Project, you will need to have a web browser installed on your computer or mobile device. 
  The application is accessible through any web browser.
 
- Features:
+ Features:<br>
  -Add bookmarks: Users can add new bookmarks to the application by providing the website URL and title.
  -Delete bookmarks: Users can delete bookmarks that are no longer needed.
  -Responsive Design: The application is optimized for different screen sizes, including desktops, laptops, tablets, and smartphones.
 
-Technologies Used:
+Technologies Used:<br>
  HTML, CSS, JavaScript
 
-Styling:
+Styling:<br>
  -Nunito font is used in this website and sans-serif font as default font.
  -Flex box is used for the layout. 
  -SVG image as a background for the website.
 
-Functions:
+Functions:<br>
 *fetchBookmarks():
  -this function checks if there are any bookmarks in the browser's local storage. If there are no bookmarks in the local storage, it will add a default bookmark.
  -This function does not take any parameter and returns an array of object of two properties:
